@@ -1,5 +1,5 @@
-#operators in python
-#1. Arithmetic operators +, -, *, /, %, **, //
+# operators in python
+# 1. Arithmetic operators +, -, *, /, %, **, //
 
 num1 = 10
 num2 = 15
@@ -32,4 +32,13 @@ print(num1>=num2 or num2<=num1)
 print(num1<=num2 or num2<=num1)
 print (not num1>num2)
 
+# assignment operator = , +=, -=, *=, /=, %=, **=
 
+num1 = num1 + 1
+print(num1)
+
+num1 += 1
+print(num1)
+
+num1 **= 2
+print(num1)
