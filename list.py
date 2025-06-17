@@ -38,3 +38,5 @@ for i in range (len(list1)):
 #printing every items in list using for loop
 for item in list1:
     print(item, end=" ")
+
+print(list1+list2)
