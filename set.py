@@ -3,11 +3,11 @@
 set1 = {"hello", "Python", 2, 99, 5.4, "hello", 2}
 set2 = {"hello", 6, 3.4, "test", 99}
 
-# print(set1)
+print(set1)
 
 # adding data to set
 set1.add(551)
-# print(set1)
+print(set1)
 
 # union in set
 print("Union: ", set1.union(set2))
